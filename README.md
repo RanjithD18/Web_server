@@ -47,4 +47,5 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
+![Webpage](https://github.com/RanjithD18/Web_server/blob/main/webpage.png?raw=true)
 ## RESULT:
